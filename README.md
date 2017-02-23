@@ -1,2 +1,2 @@
 # Project-Euler
-Some code on Project Euler
+Some solutions on Project Euler
